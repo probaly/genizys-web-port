@@ -2,6 +2,9 @@
 
 all games are hosted on https://gn-math.github.io
 
+<img width="960" height="102" alt="image" src="https://github.com/user-attachments/assets/0f3b2cc1-4b0a-4f39-a4c3-98744f00adaf" />
+
+
 ## Full Game List + Credits
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [genizy](https://github.com/genizy)
 - [Andy's Apple Farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) - Ported by [genizy](https://github.com/genizy)
